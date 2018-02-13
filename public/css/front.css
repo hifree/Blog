@@ -1,0 +1,34 @@
+			.well {
+				margin: 0px auto;
+				max-width: 500px;
+				background-color: #fafafa;
+				border: 1px solid #bbb;
+			}
+
+			.form-control {
+				border: 1px solid #bbb;
+			}
+			textarea {
+				min-height:110px;
+			}
+			.noresize {
+				resize: none; 
+			}
+			.vresize {
+				resize: vertical; 
+			}
+			.hresize {
+				resize: horizontal;  
+			}
+			
+			.btn {
+				width: 100%;
+				border-radius: 5px;
+				border: 1px solid #bbb;
+			}
+
+			.btn2 {
+				width: 100%;
+				border-radius: 0px;
+				border: 1px solid #bbb;
+			}
